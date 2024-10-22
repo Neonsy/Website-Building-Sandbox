@@ -13,6 +13,7 @@ I want to use technologies like React and Tailwind to primarily build "normal" w
 For now, I'm keeping it simple:
 
 -   **React**: Because I wanna keep on using it
+-   **NextJS**: Because I want more experiance with it and V15 is out
 -   **Tailwind CSS**: Because as I'm writing this, there is no better option.
 
 > [!NOTE]
